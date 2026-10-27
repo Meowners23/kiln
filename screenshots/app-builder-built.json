@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kiln",
+      "hasCanvas": false,
+      "bodyTextLen": 1352,
+      "bodyTextHash": "7ebdf552c901baf8e9a1609f97d99237d215fa10aaa874225fd14e0e4438ce21",
+      "bodyTextPrefix": "K Kiln hyprland.lua · 0.55+ Rice name Copy Download Look Gaps, c",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kiln",
+      "hasCanvas": false,
+      "bodyTextLen": 1252,
+      "bodyTextHash": "843860f6a1225892af5502ee3173403d6945ede0943505e36507646089bb79cb",
+      "bodyTextPrefix": "K Kiln hyprland.lua · 0.55+ Rice name Copy Look Input Binds Rule",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

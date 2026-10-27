@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kiln",
+      "hasCanvas": false,
+      "bodyTextLen": 1352,
+      "bodyTextHash": "7ebdf552c901baf8e9a1609f97d99237d215fa10aaa874225fd14e0e4438ce21",
+      "bodyTextPrefix": "K Kiln hyprland.lua · 0.55+ Rice name Copy Download Look Gaps, c",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\n%s%s https://react.dev/link/hydration-mismatch \n\n  ...\n    <MatchInnerImpl match={{id:\"//\",ssr:true, ...}}>\n      <Lazy>\n        <Home>\n          <Studio>\n            <div className=\"kiln flex ...\">\n              <header>\n              <div>\n              <div className=\"flex min-h...\">\n                <nav>\n                <aside>\n                <main className=\"order-2 co...\">\n                  <LookPanel>\n                    <div className=\"space-y-8\">\n                      <Group>\n                      <Group>\n                      <Group>\n                      <Group>\n                      <Group title=\"Decoration\">\n                        <section className=\"space-y-4\">\n                          <div>\n                          <div>\n                          <ToggleRow>\n                          <div className=\"grid gap-x...\">\n                            <SliderField>\n                            <SliderField label=\"Shadow power\" value={3} min={1} max={8} step={1} ...>\n                              <label className=\"block min-w-0\">\n                                <span>\n                                <input\n                                  className=\"kiln-range\"\n                                  type=\"range\"\n                                  min={1}\n                                  max={8}\n                                  step={1}\n                                  value={3}\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                          <ToggleRow>\n                          <div className=\"grid gap-x...\">\n                            <SliderField label=\"Blur size\" value={3} min={1} max={16} step={1} ...>\n                              <label className=\"block min-w-0\">\n                                <span>\n                                <input\n                                  className=\"kiln-range\"\n                                  type=\"range\"\n                                  min={1}\n                                  max={16}\n                                  step={1}\n                                  value={3}\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                            <SliderField label=\"Blur passes\" value={1} min={1} max={6} step={1} ...>\n                              <label className=\"block min-w-0\">\n                                <span>\n                                <input\n                                  className=\"kiln-range\"\n                                  type=\"range\"\n                                  min={1}\n                                  max={6}\n                                  step={1}\n                                  value={1}\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                            <SliderField label=\"Vibrancy\" value={0.1696} min={0} max={1} step={0.01} ...>\n                              <label className=\"block min-w-0\">\n                                <span>\n                                <input\n                                  className=\"kiln-range\"\n                                  type=\"range\"\n                                  min={0}\n                                  max={1}\n                                  step={0.01}\n                                  value={0.1696}\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                      ...\n                  ...\n"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kiln",
+      "hasCanvas": false,
+      "bodyTextLen": 1252,
+      "bodyTextHash": "843860f6a1225892af5502ee3173403d6945ede0943505e36507646089bb79cb",
+      "bodyTextPrefix": "K Kiln hyprland.lua · 0.55+ Rice name Copy Look Input Binds Rule",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
